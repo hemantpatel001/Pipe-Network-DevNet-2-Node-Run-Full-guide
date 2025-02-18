@@ -110,7 +110,7 @@ chmod +x pop
 sudo ./pop --ram 8 --max-disk 500 --cache-dir /data --pubKey <KEY>
 ```
 
-Note: Put your `ram` , `disk` & `pubkey` with your actual Information.Retrieve the public key from your Solana wallet (e.g., Phantom, Backpack) & Replace in `<KEY>` by Solana Address
+Note: Put your `ram` , `disk` & `pubkey` with your actual Information. Retrieve the public key from your Solana wallet (e.g., Phantom, Backpack) & Replace in `<KEY>` by Solana Address
 
 ## Need to Free Your 8003 Port
 
